@@ -92,3 +92,63 @@ body{
     font-weight: 500;
     line-height: 32px;
 }
+
+/*formulario*/
+
+form {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.container-option{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    
+}
+
+.explore {
+    padding: 50px;
+}
+
+.choose-travel {
+    max-width: 1940px;
+    margin: 50px auto;
+    width: 841px;
+    height: 124px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+
+#locations, #date, #guest {
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    font-weight: bold;
+}
+
+label {
+    font-size: 12px;
+    margin-top: 10px;
+    font-weight: 400;
+    color: #666666;
+    width: 126px;
+}
+
+/*button*/
+.explore input{
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding: 21px;
+    background-color: #FD8D3A;
+    border-radius: 5px;
+    width: 165px;
+    border: none;
+}
+
+select {
+    background-color: #FFFFFF;
+    border: none;
+}

@@ -152,3 +152,69 @@ select {
     background-color: #FFFFFF;
     border: none;
 }
+
+/*advantages*/
+
+.advantages{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.planes-adavantages {
+    position: absolute;
+    width: 179.9px;
+    height: 130.73px;
+    left: 990px;
+}
+
+.advantages h2 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 54px;
+    font-family: 'Volkhov';  
+}
+
+.advantages p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 470px;
+    color: #666666;
+    margin: 20px auto;
+}
+
+.card-img-top {
+    width: 48px;
+    height: 48px;
+    margin-top: 40px;
+    margin-left: 54px;
+    margin-bottom: 48px;
+}
+
+.card {
+    width: 370px;
+    height: 278px;
+    border: none;
+  }
+  
+
+.card p {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    width: 290px;
+    color: #666666;
+    margin-bottom: 37px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+  
+}
+
+.card-group {
+    gap: 30px;
+}
+
+.card-title {
+    margin-left: 40px;
+}
